@@ -40,5 +40,9 @@ Este archivo contiene todas las celdas necesarias, organizadas en secciones, que
 
 ## ▶️ ¿Cómo usar este repositorio?
 
-### 1. Clona el repositorio
+- Clona el repositorio
+
+## Autor
+
+Desarrollado por [Alan Guillen](https://github.com/MickGuillen).
 
