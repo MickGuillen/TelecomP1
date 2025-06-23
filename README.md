@@ -1,6 +1,3 @@
-# Guardar el contenido generado como archivo README.md
-
-
 # 📊 Análisis de Datos de Clientes – Telecomunicaciones
 
 Este repositorio contiene un proyecto desarrollado en Python, enfocado en el análisis preliminar de datos de clientes de una empresa de telecomunicaciones. A partir de un conjunto de datos extraído directamente desde una fuente JSON pública, se realiza una exploración para conocer su estructura, identificar problemas de calidad y preparar los datos para futuros análisis más complejos, como segmentación de clientes o modelos predictivos de abandono (*churn*).
