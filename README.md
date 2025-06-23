@@ -44,5 +44,5 @@ Este archivo contiene todas las celdas necesarias, organizadas en secciones, que
 
 ## Autor
 
-Desarrollado por [Alan Guillen](https://github.com/MickGuillen).
+Desarrollado por [Alan Guillen](https://github.com/MickGuillen)
 
